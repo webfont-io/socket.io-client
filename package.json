@@ -1,6 +1,6 @@
 {
   "name": "socket.io-client.js",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "keywords": [
     "realtime",
     "framework",
@@ -27,7 +27,7 @@
     "object-component": "0.0.3",
     "parseqs": "0.0.5",
     "parseuri": "0.0.5",
-    "socket.io-parser": "~3.3.0",
+    "socket.io-parser.js": "~3.3.1",
     "to-array": "0.1.4"
   },
   "devDependencies": {
